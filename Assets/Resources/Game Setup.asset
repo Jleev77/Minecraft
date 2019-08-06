@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e96e09a2361efae43a9cd41305107cd3, type: 3}
+  m_Name: Game Setup
+  m_EditorClassIdentifier: 
+  BlankBlock: {fileID: 5610598629892115303, guid: c763ec49923afe94d827034c5df3bb08,
+    type: 3}
+  Player: {fileID: 559804861641780445, guid: 14335e1b6bdd13444b37b5eec84f808c, type: 3}
+  Brown: {fileID: 2100000, guid: 3521856edd915ff41843b74b3370bcdb, type: 2}
+  Green: {fileID: 2100000, guid: f5e9929b3e08b444e9d0b5626c8bfb49, type: 2}
+  Grey: {fileID: 2100000, guid: 5f6d9bb7a6daf424c9fc5e2fc5b0abb0, type: 2}
